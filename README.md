@@ -121,3 +121,8 @@ This project is inspired by the need to create an inclusive, prosperous, and sus
 - Organizations working tirelessly on the SDGs.  
 
 ---
+📬 Contact Us
+
+For queries, collaborations, or feedback:
+📧 Email: africa-progress@platform.dev
+🌐 Website: Africa Progress Platform
