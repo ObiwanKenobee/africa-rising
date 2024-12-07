@@ -126,9 +126,6 @@ This project is inspired by the need to create an inclusive, prosperous, and sus
 For queries, collaborations, or feedback:  
 📧 Email: africa-progress@platform.dev  
 🌐 Website: [Africa Progress Platform](https://africaprogressplatform.org)  
-
---- 
-
 **Join us in creating a brighter future for Africa!**
 
 ![Africa Development](https://r2.gptseek.com/pin_review_scholar.png)
